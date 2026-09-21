@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-import suryaImage from "./assets/luffyy.webp";
+import suryaImage from "./assets/suryaim.jpeg";
 
 function App() {
 
@@ -60,7 +60,7 @@ function App() {
           <div className="hero-buttons">
 
             <a
-              href="/Surya-V-Resume.pdf"
+              href="/Surya_Java_Developer_Resume.docx"
               download
               className="primary-btn"
             >
